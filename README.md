@@ -1,4 +1,4 @@
-# Learn-with-GetUpraised.com
+# Learn with GetUpraised.com
 
 <p><a target='_blank' href="https://www.udemy.com/course/master-pycharm-ide-become-a-productive-python-developer/?referralCode=9A2D5F2321680259342F" ><img src="https://getupraised.com/wp-content/uploads/2021/12/Pycharm.png" alt="Image" title="Master Pycharm IDE for Python"></a></p>
 
