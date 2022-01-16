@@ -71,9 +71,9 @@ This track will have you master core java and help you become a confident java d
 ## Start building ethereum dapp with Blockchain
 <p><a target='_blank' href="https://www.udemy.com/course/ethereum-and-solidity-become-a-blockchain-developer-today/?referralCode=F9CF2012D4EF901392E6" ><img src="https://getupraised.com/wp-content/uploads/2021/12/ethereum.png" alt="Image" title="Learn Solidity and build your own smart contracts"></a></p>
 
+<p><a target='_blank' href="#" ><img src="https://getupraised.com/wp-content/uploads/2022/01/Why-learn-from-us-724x1024.png" alt="Image"></a></p>
 
-
-## All my courses
+# All my courses
 <p><a target='_blank' href="https://www.udemy.com/course/master-pycharm-ide-become-a-productive-python-developer/?referralCode=9A2D5F2321680259342F" ><img src="https://getupraised.com/wp-content/uploads/2021/12/Pycharm.png" alt="Image" title="Master Pycharm IDE for Python"></a></p>
 
 <p><a target='_blank' href="https://www.udemy.com/course/become-a-java-developer-and-get-the-job/?referralCode=FC833C70F83C1CFCC38E" ><img src="https://getupraised.com/wp-content/uploads/2021/12/java.png" alt="Image" title="Java for complete beginner"></a></p>
