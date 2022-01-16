@@ -1,20 +1,21 @@
 ## Learn with GetUpraised.com
 
 # Learning tracks
-## [1. Master java programming language and become a confident software developer](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#master-java-programming-language-and-become-a-confident-software-developer)
-## [2. Master java and start building web applications](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#master-java-and-start-building-web-applications)
-## [3. Master java testing frameworks](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#master-java-testing-frameworks)
-## [4. Getting strong fundamentals of java and data structures and algorithms](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#getting-strong-fundamentals-of-java-and-data-structures-and-algorithms)
-## [5. Become python developer](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#5-become-python-developer-1)
-## [6. Getting python certified](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#getting-python-certified)
-## [7. Master python testing frameworks](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#master-python-testing-frameworks)
-## [8. Learn product management](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#learn-product-management)
-## [9. Start building ethereum dapp with Blockchain](https://github.com/GetUpraisedOfficial/Learn-with-GetUpraised.com/new/main#start-building-ethereum-dapp-with-blockchain)
+## [1. Master java programming language and become a confident software developer](#1-master-java-programming-language-and-become-a-confident-software-developer-1)
+## [2. Master java and start building web applications](#2-master-java-and-start-building-web-applications-1)
+## [3. Master java testing frameworks](#3-master-java-testing-frameworks-1)
+## [4. Getting strong fundamentals of java and data structures and algorithms](#4-getting-strong-fundamentals-of-java-and-data-structures-and-algorithms-1)
+## [5. Become python developer](#5-become-python-developer-1)
+## [6. Getting python certified](#6-getting-python-certified-1)
+## [7. Master python testing frameworks](#master-python-testing-frameworks)
+## [8. Learn product management](#learn-product-management)
+## [9. Start building ethereum dapp with Blockchain](#start-building-ethereum-dapp-with-blockchain)
 
 
 ## 1. Master java programming language and become a confident software developer
 
-Courses that will help you :
+This track will have you master core java and help you become a confident java developer
+
 <p><a target='_blank' href="https://www.udemy.com/course/become-a-java-developer-and-get-the-job/?referralCode=FC833C70F83C1CFCC38E" ><img src="https://getupraised.com/wp-content/uploads/2021/12/java.png" alt="Image" title="Java for complete beginner"></a></p>
 <p><a target='_blank' href="https://www.udemy.com/course/java-puzzles-to-boost-your-confidence-crack-java-interview/?referralCode=EA24E471D40A2E5E9A94" ><img src="https://getupraised.com/wp-content/uploads/2021/12/Java-puzzles.png" alt="Image" title="Java puzzles to boost your confidence"></a></p>
 <p><a target='_blank' href="https://www.udemy.com/course/master-intellij-idea-become-a-productive-java-developer/?referralCode=E138BFE71A5F2C88304E" ><img src="https://getupraised.com/wp-content/uploads/2021/12/Intellij-course.png" alt="Image" title="Master Intellij Idea"></a></p>
@@ -29,7 +30,6 @@ Courses that will help you :
 - Version control system
 - Problem solving ability as a programmer
 
---
 
 
 
