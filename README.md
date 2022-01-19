@@ -1,4 +1,5 @@
 ## Learn with GetUpraised.com
+Clicking on any learning tracks below will take you to respective track information and list of courses within the track. You can click on any of the courses and get the course at **lowest price**.
 
 # Learning tracks
 ## [1. Master java programming language and become a confident software developer](#1-master-java-programming-language-and-become-a-confident-software-developer-1)
